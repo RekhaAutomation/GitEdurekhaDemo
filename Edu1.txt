@@ -1,1 +1,2 @@
 This is first file created in local repository
+This is to test the modified file.
